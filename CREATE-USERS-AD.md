@@ -1,3 +1,5 @@
+[
+](https://www.loom.com/share/0a3cf05e7e294ff9a172adfad6c5cd7a?sid=4c61d047-f252-49a0-913a-542a3e2410d7)
 # Create Users in Active Directory (AD)
 
 This guide explains how to create new user accounts in **Active Directory Users and Computers (ADUC)**.
